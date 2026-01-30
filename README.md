@@ -1,5 +1,7 @@
 ## Full-Stack CRUD Notes Application (MERN) (Lab 17.2 - Full-Stack Deployment)
 
+## This repository serves as the central documentation hub for the full-stack system.
+
 ## Author
 
 **Dewan Mahmud**  
